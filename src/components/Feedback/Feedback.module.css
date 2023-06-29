@@ -4,8 +4,9 @@
   gap: 15px;
 }
 .buttonItem {
-  width: 70px;
-  height: 24px;
+  width: 80px;
+  height: 30px;
+  font-size: 20px;
   background-color: white;
   color: black;
   border: 2px solid #c2cdce;
