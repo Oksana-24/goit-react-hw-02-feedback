@@ -32,7 +32,7 @@ export class App extends Component {
     return (
       <div
         style={{
-          width: '400px',
+          width: '500px',
           textAlign: 'center',
           border: '1px solid red',
         }}
